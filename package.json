@@ -1,0 +1,21 @@
+{
+  "name": "easycode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "babel src -d dist",
+    "watch": "npm run compile --watch"
+  },
+  "bin": {
+    "easycode": "index.js"
+  },
+  "author": "qytayh [13255238145@163.com]",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.0"
+  }
+}

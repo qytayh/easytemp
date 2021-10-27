@@ -1,0 +1,12 @@
+{
+    "tpl": {
+        "vue3+ts": {
+            "url": "https://github.com/qytayh/intro.git",
+            "branch": "template"
+        },
+        "koa2+ts":{
+            "url": "https://github.com/qytayh/intro-service.git",
+            "branch": "template"
+        }
+    }
+}
