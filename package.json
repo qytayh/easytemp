@@ -1,10 +1,10 @@
 {
-  "name": "easycodeyt",
-  "version": "1.0.0",
+  "name": "easytemp",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "bin": {
-    "easycodeyt": "index.js"
+    "easytemp": "index.js"
   },
   "author": "qytayh [13255238145@163.com]",
   "license": "ISC",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qytayh/easycode.git"
+    "url": "git+https://github.com/qytayh/easytemp.git"
   },
   "bugs": {
-    "url": "https://github.com/qytayh/easycode/issues"
+    "url": "https://github.com/qytayh/easytemp/issues"
   },
-  "homepage": "https://github.com/qytayh/easycode#readme"
+  "homepage": "https://github.com/qytayh/easytemp#readme"
 }

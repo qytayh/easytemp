@@ -1,6 +1,6 @@
 # readme
 
-## what is easycodeqy
+## what is easytemp
 
 快速以下方几个模板构建项目
 
@@ -10,7 +10,7 @@
 
 ## use
 ```
-npm i easycodeyt -g
-easycodeyt -v
-easycodeyt init
+npm i easytemp -g
+easytemp -v
+easytemp init
 ```
