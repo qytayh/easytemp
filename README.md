@@ -1,4 +1,6 @@
-# easycode
+# readme
+
+## what is easycodeqy
 
 快速以下方几个模板构建项目
 
@@ -6,7 +8,7 @@
 
 [koa2+ts](https://github.com/qytayh/intro-service/tree/template)
 
-# 使用方式
+## use
 ```
 npm i easycodeyt -g
 easycodeyt -v
