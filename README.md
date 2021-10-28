@@ -8,7 +8,7 @@
 
 # 使用方式
 ```
-npm easycodeyt -g
+npm i easycodeyt -g
 easycodeyt -v
 easycodeyt init
 ```
